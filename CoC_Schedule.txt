@@ -1,14 +1,14 @@
-Placeholder1 vs Placeholder2
+Player1 vs Player2
 (MM/DD) - hh:mm
 -------------------------------------
-Placeholder3 vs Placeholder4
+Player3 vs Player4
 (MM/DD) - hh:mm
 -------------------------------------
-Placeholder5 vs Placeholder6
+Player5 vs Player6
 (MM/DD) - hh:mm
 -------------------------------------
-Placeholder7 vs Placeholder8
+Player7 vs Player8
 (MM/DD) - hh:mm
 -------------------------------------
-Placeholder9 vs Placeholder10
+Player9 vs Player10
 (MM/DD) - hh:mm

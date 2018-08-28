@@ -1,14 +1,14 @@
 cG_Eery vs TheMista
-(09/11) - 04:20
+(09/11) - 04:20 UTC
 -------------------------------------
 Player3 vs Player4
-(MM/DD) - hh:mm
+(MM/DD) - hh:mm UTC 
 -------------------------------------
 Player5 vs Player6
-(MM/DD) - hh:mm
+(MM/DD) - hh:mm UTC
 -------------------------------------
 Player7 vs Player8
-(MM/DD) - hh:mm
+(MM/DD) - hh:mm UTC
 -------------------------------------
 Player9 vs Player10
-(MM/DD) - hh:mm
+(MM/DD) - hh:mm UTC

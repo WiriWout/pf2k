@@ -1,4 +1,5 @@
-Maps
+Map pool
+
 1. Equal Footing
 2. Inland
 3. Arabia

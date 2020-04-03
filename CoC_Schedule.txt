@@ -1,12 +1,12 @@
 Best of 1
 1) Pozeidon vs Greeky
 2) Wout vs Verhuver
-3) Winner of 1) versus Carnage
-4) Winner of 2) versus Eery
-5) Loser of 1) versus loser of 4)
-6) Loser of 2) versus loser of 3)
-7) Winner of 5) versus winner of 6)
+3) Winner of 1) vs Carnage
+4) Winner of 2) vs Eery
+5) Loser of 1) vs loser of 4)
+6) Loser of 2) vs loser of 3)
+7) Winner of 5) vs winner of 6)
 
 Best of 3
-8) Winner of 3) versus winner of 4)
-9) Winner of 7) versus loser of 8)
+8) Winner of 3) vs winner of 4)
+9) Winner of 7) vs loser of 8)

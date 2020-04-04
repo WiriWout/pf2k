@@ -1,18 +1,9 @@
-Equal Footing (BO1)
 1) Pozeidon vs Greeky
 2) Wout vs Verhuver
-
-Treasure Island (BO1)
-3) Winner of 1) vs Carnage
+3) Pozeidon vs Carnage
 4) Winner of 2) vs Eery
-
-Equal footing (BO1)
-5) Loser of 1) vs loser of 4)
+5) Greeky vs loser of 4)
 6) Loser of 2) vs loser of 3)
-
-Treasure island (BO1)
 7) Winner of 5) vs winner of 6)
-
-Ghost Lake (BO3)
 8) Winner of 3) vs winner of 4)
 9) Winner of 7) vs loser of 8)

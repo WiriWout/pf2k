@@ -1,18 +1,18 @@
 Equal footing (BO1)
-1) Pozeidon vs Greeky
-2) Wout vs Verhuver
+1) Warlock vs Kaban
+2) Borg vs optimalacorn
 
 Treasure island (Bo1)
-3) Pozeidon vs Carnage
-4) Wout vs Eery
+3) winner of 1) versus Zerton
+4) winner of 2) versus Striker
 
 Equal footing (bo1)
-5) Greeky vs Wout
-6) Verhuver vs Pozeidon
+5) Loser of 1) versus loser of 4)
+6) Loser of 2) versus loser of 3)
 
 Treasure island (bo1)
-7) Wout vs Pozeidon
+7) Winner of 5) versus winner of 6)
 
 Ghost lake (bo3)
-8) Carnage vs Eery
-9) Wout vs Carnage
+8) Winner of 3) versus winner of 4)
+9) Winner of 7) versus loser of 8)

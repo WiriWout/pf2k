@@ -3,16 +3,16 @@ Equal footing (BO1)
 2) Borg vs optimalacorn
 
 Treasure island (Bo1)
-3) winner of 1) versus Zerton
-4) winner of 2) versus Striker
+3) winner of 1) vs Zerton
+4) winner of 2) vs Striker
 
 Equal footing (bo1)
-5) Loser of 1) versus loser of 4)
-6) Loser of 2) versus loser of 3)
+5) Loser of 1) vs loser of 4)
+6) Loser of 2) vs loser of 3)
 
 Treasure island (bo1)
-7) Winner of 5) versus winner of 6)
+7) Winner of 5) vs winner of 6)
 
 Ghost lake (bo3)
-8) Winner of 3) versus winner of 4)
-9) Winner of 7) versus loser of 8)
+8) Winner of 3) vs winner of 4)
+9) Winner of 7) vs loser of 8)

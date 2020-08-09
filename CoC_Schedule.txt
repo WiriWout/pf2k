@@ -1,2 +1,3 @@
-Saturday: Semi-finals
-Sunday: Grand finals/bronze match
+Today:
+- Bronze match
+- Grand finals
